@@ -1,3 +1,3 @@
 # Chat Turorial
 
-Based on the (https://socket.io/get-started/chat)[Sockets.io Chat tutorial].
+Based on the [Sockets.io Chat tutorial](https://socket.io/get-started/chat).
